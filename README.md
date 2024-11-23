@@ -11,4 +11,5 @@ I’m passionate about learning and growing in the fields of data science, hydro
 
 I’m an adventurous spirit who loves nature and poetry.
 I enjoy playing football, hiking, and spending time at the gym!
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarqsalah)](https://github.com/tarqsalah/github-readme-stats)
